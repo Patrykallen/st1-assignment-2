@@ -1,0 +1,5 @@
+Before using the AI, I worked through the problem by running the sumple python prototype. This helped me understand how the data can be stored and displayed. The human written version was simple and easy to follow yet it lacked any validation, confict checking, or flexablity
+
+Using AI helped to deepen the understanding of the code. It showed the purpose of each section of the program, clearly showed all the limitations that had not been considerd, and suggested improvments at a beginner level. The AI also generated an alt version of the function, this helped me compare the diffrent possible approaches to solving the same problem. WHile the AI made some assumptions, sich as expectiong valid inputs, these were very each to identify and test.
+
+To verify the outputs being given by the AI, I ran the code with both normal and unusual inputs, including things such as blank names and overlapping appointment times. The work the remainded for me included deciding on one improvements and intergrating it into the human written code, running tests, and doing the required documenttaing. 
